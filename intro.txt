@@ -4,6 +4,6 @@ Name: Thomas Windell
 
 Major / program: Data Science and Analytics
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: Sports Analytics, specifically soccer
 
 One reason I am studying analytics:
