@@ -73,3 +73,11 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+
+## Week 5 Assignment - Part 3
+
+Version control matters for analytics because it allows the user to test changes 
+without risking ruining their project. It stores dated update logs, and tracks 
+what changes were made by who. As stated in GitHub for Dummies, it's essentially 
+an undo button that can revert a project back to any point where a version was saved. 
