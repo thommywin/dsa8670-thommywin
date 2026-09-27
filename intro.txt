@@ -6,4 +6,4 @@ Major / program: Data Science and Analytics
 
 Favorite dataset or industry interest: Sports Analytics, specifically soccer
 
-One reason I am studying analytics:
+One reason I am studying analytics: I want to have a better understanding of why data drives business decisions, and also be able to make these decisions myself. I want to position myself in a way where I can make those decisions and provide the value instead of relying on someone else. 
